@@ -6,9 +6,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
