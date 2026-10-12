@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0061-rotate-list](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0283-move-zeroes](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Hash Table
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
