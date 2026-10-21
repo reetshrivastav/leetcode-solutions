@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0069-sqrtx](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -114,4 +115,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
