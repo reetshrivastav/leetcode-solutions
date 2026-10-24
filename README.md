@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0066-plus-one](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Two Pointers
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0066-plus-one](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/reetshrivastav/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 ## Dynamic Programming
